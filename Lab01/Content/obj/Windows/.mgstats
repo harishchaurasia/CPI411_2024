@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab01/Content/logo_mg.jpg","C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab01/Content/bin/Windows/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.0987282
+"C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab01/Content/SimplestShader.fx","C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab01/Content/bin/Windows/SimplestShader.xnb","EffectProcessor","CompiledEffectContent",1002,883,0.2304343
+"C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab01/Content/SimpleTex.fx","C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab01/Content/bin/Windows/SimpleTex.xnb","EffectProcessor","CompiledEffectContent",554,883,0.2304023
