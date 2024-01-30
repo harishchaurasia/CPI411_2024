@@ -1,3 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/First3DShader.fx","C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/bin/Windows/Content/First3DShader.xnb","EffectProcessor","CompiledEffectContent",951,1596,0.2973623
-"C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/logo_mg.jpg","C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.036594
+"C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/First3DShader.fx","C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/bin/Windows/Content/First3DShader.xnb","EffectProcessor","CompiledEffectContent",951,1596,0.2294215
+"C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/logo_mg.jpg","C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.0333084

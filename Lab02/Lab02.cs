@@ -94,8 +94,6 @@ namespace Lab02
                 distance -= 0.01f;
             }
 
-            Console.WriteLine("hEYYYYYA");
-
 
             cameraPos = distance * new Vector3((float)System.Math.Sin(angle), 0, (float)System.Math.Cos(angle));
 

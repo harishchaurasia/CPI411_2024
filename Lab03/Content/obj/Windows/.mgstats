@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hchaura1/Downloads/CPI411_Harish_2024/CPI411_Harish_2024/Lab03/Content/bunny.FBX","C:/Users/hchaura1/Downloads/CPI411_Harish_2024/CPI411_Harish_2024/Lab03/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.2773594
+"C:/Users/hchaura1/Downloads/CPI411_Harish_2024/CPI411_Harish_2024/Lab03/Content/Font.spritefont","C:/Users/hchaura1/Downloads/CPI411_Harish_2024/CPI411_Harish_2024/Lab03/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2186424
+"C:/Users/hchaura1/Downloads/CPI411_Harish_2024/CPI411_Harish_2024/Lab03/Content/SimpleShading.fx","C:/Users/hchaura1/Downloads/CPI411_Harish_2024/CPI411_Harish_2024/Lab03/Content/bin/Windows/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",1429,2232,0.2249472

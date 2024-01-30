@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/First3DShader.fx</SourceFile>
-  <SourceTime>2024-01-18T14:14:10.7350677-07:00</SourceTime>
-  <DestFile>C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/bin/Windows/Content/First3DShader.xnb</DestFile>
-  <DestTime>2024-01-18T14:30:08.0279455-07:00</DestTime>
+  <SourceFile>C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/First3DShader.fx</SourceFile>
+  <SourceTime>2024-01-18T14:14:12-07:00</SourceTime>
+  <DestFile>C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/bin/Windows/Content/First3DShader.xnb</DestFile>
+  <DestTime>2024-01-26T12:51:45.1720935-07:00</DestTime>
   <Importer>EffectImporter</Importer>
   <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
   <Processor>EffectProcessor</Processor>

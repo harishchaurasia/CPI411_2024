@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/First3DShader.fx</File>
-    <File>C:/Users/TEMP/source/repos/CPI411_Harish_2024/Lab02/Content/logo_mg.jpg</File>
+    <File>C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/First3DShader.fx</File>
+    <File>C:/Users/hchaura1/Downloads/CPI411_Harish_2024-2/CPI411_Harish_2024/Lab02/Content/logo_mg.jpg</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
