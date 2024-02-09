@@ -1,0 +1,12 @@
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\hchaura1\Downloads\CPI411_Harish_2024\CPI411_Harish_2024\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll
